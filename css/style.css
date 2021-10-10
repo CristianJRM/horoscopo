@@ -3,6 +3,9 @@ option, select, button{
     background: transparent;
     color: white;
     font-size: 1rem;
+    border: 2px solid white;
+    border-radius: 6px;
+    text-align: center;
 }
 .signo-horoscopo{
     display: flex;
@@ -28,6 +31,7 @@ p{
     padding: 2rem;
     color: white;
     font-family: 'Lato';
+    text-shadow: 2px 2px black;
 }
 hr{
     width: 80%;
