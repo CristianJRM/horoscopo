@@ -52,6 +52,9 @@ img{
     .signo-horoscopo>div{
         flex: 100%;
     }
+    h2{
+      font-size: 3rem;
+    }
     img{
         width: 80%;
         height: 80%;
