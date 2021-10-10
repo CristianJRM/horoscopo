@@ -45,8 +45,8 @@ h3{
 img{
     display: block;
     margin: 50px auto;
-    width: 40%;
-    height: 40%;
+    width: auto;
+    height: 600px;
 }
 @media(max-width:828px) {
     .signo-horoscopo>div{
